@@ -1,4 +1,3 @@
 ### Hi there 👋
-### Languages and tools
-![JavaScript]()
-https://img.shields.io/badge/-«JavaScript»-#D8BFD8«?style=for-the-badge&logo=appveyor»
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
