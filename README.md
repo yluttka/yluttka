@@ -1,2 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=yluttka)
+### Languages and tools
+![JavaScript]()
+https://img.shields.io/badge/-«JavaScript»-#D8BFD8«?style=for-the-badge&logo=appveyor»
